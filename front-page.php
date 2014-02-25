@@ -22,7 +22,7 @@
 					<article class="proposition <?php echo ($count++ % 2) ? even : odd ?>">
 						<?php post_image($images[$count - 1]); ?>
 						<h1><?php the_title(); ?></h1>
-						<p><?php the_content(); ?></p>
+						<?php the_excerpt(); ?>
 						<a href="<?php the_permalink(); ?>">Læs mere</a>
 					</article>
 				</div>
