@@ -58,7 +58,6 @@
 
 .container:after {
   clear: both;
-  height: 20px;
 }
 
 /* global styles */
@@ -126,10 +125,6 @@ strong {
   color: inherit;
 }
 
-.container {
-  padding: 20px;
-}
-
 .concept {
   padding: 0 15px;
   text-align: center;
@@ -168,6 +163,7 @@ strong {
   text-align: right;
   width: 80%;
   margin: 0 auto;
+  padding: 50px 0;
 }
 
 .proposition img {
