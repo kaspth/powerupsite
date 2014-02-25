@@ -195,23 +195,31 @@ strong {
   margin-left: 0;
 }
 
-.proposition a {
+.proposition a, .powerups a {
   color: #246ec8;
   text-decoration: none;
 }
 
-.proposition a:after {
+.proposition a:after, .powerups a:after {
   content: "〉";
   position: relative;
   bottom: -2px;
   right: -5px;
 }
 
-.powerups h1 {
+.powerups {
   text-align: center;
-  font-size: 180%;
+  margin-bottom: 20px;
+}
+
+.powerups h1, .powerups h2 {
+  font-size: 130%;
   font-weight: 500;
   margin: 20px;
+}
+
+.powerups h1 {
+  font-size: 180%;
 }
 
 iframe {
