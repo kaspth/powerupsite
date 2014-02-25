@@ -161,7 +161,7 @@ strong {
   text-transform: uppercase;
   letter-spacing: 6px;
   word-spacing: 3px;
-  padding: 2px;
+  line-height: 130%;
 }
 
 .proposition {
