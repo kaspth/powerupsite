@@ -30,7 +30,10 @@
 			<p><?php echo 'Beklager, ingen poster matcher dine kriterier.'; ?></p>
 			<?php endif; ?>
 
-			<iframe seamless src="http://mod7af1489.keaweb.dk/goodvertizingpowerup/recent_powerups.php"></iframe>
+			<section class="powerups">
+				<h1>De nyeste PowerUps</h1>
+				<iframe seamless src="http://mod7af1489.keaweb.dk/goodvertizingpowerup/recent_powerups.php"></iframe>
+			</section>
 		</section>
 
 		<?php get_footer(); ?>

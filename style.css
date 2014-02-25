@@ -211,6 +211,13 @@ strong {
   right: -5px;
 }
 
+.powerups h1 {
+  text-align: center;
+  font-size: 180%;
+  font-weight: 500;
+  margin: 20px;
+}
+
 iframe {
   width: 90%;
   margin: 0 auto;
