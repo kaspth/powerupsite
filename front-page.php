@@ -32,6 +32,9 @@
 
 			<section class="powerups">
 				<h1>De nyeste PowerUps</h1>
+				<h2>Vind Nike + Sport Watch GPS</h2>
+				<a href="https://www.facebook.com/pages/Power-Up/460877770705249?id=460877770705249&sk=app_805803386103615">Deltag i konkurrencen</a>
+
 				<iframe seamless src="http://mod7af1489.keaweb.dk/goodvertizingpowerup/recent_powerups.php"></iframe>
 			</section>
 		</section>
