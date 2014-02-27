@@ -91,25 +91,27 @@ strong {
   text-decoration: none;
 }
 
-#siteheader a h3 {
+#siteheader a h1 {
   position: relative;
 }
 
-#siteheader a h3:before {
+#siteheader a h1:before {
   content: "〈";
   position: absolute;
   top: 2px;
-  left: -46px;
+  left: -60px;
+  font: inherit;
 }
 
-#siteheader h3 {
+#siteheader h1 {
   margin: 5px 0;
-  font-size: 220%;
+  font-size: 320%;
 }
 
 #siteheader p {
   font-style: italic;
   font-weight: 300;
+  font-size: 112%;
 }
 
 #sitefooter {

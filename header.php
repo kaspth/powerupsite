@@ -11,9 +11,9 @@
   <div id="container">
     <header id="siteheader">
       <?php if (is_front_page()) { ?>
-        <h3>PowerUp</h3>
+        <h1>PowerUp</h1>
       <?php } else { ?>
-        <a href="<?php bloginfo('url'); ?>/"><h3>PowerUp</h3></a>
+        <a href="<?php bloginfo('url'); ?>/"><h1>PowerUp</h1></a>
       <?php } ?>
       <p>Den gode vej til en energifuld hverdag</p>
     </header>
